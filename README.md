@@ -1,7 +1,3 @@
-# Certificates
-## Here, I have uploaded all my certificates:-
-Coursera,
-HackerRank,
-Rasa,
-EFY Magazine,
-Journal
+# EFY-Magazine_DIY-Project-
+## EFY Magazine: DIY: Project, DIY: Circuit
+
