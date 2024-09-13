@@ -1,5 +1,7 @@
-# EFY Magazine: DIY: Project, DIY: Circuit
-# IoT based robotic arm for assisting older people and smart home automation system_Journal
+# EFY Magazine_Embedded Systems_projects.pdf
+## EFY Magazine: DIY: Project, DIY: Circuit
+# IoT based robotic arm_assisting older people _Journal.pdf
+## IoT based robotic arm_certificate.png
 ## raspberry pi 4 pinout.png
 ## pinout diagram node mcu esp8266.jpg
 # WiFi Door Lock using ESP32 CAM & Blynk - IoT Project for Smart House
@@ -7,5 +9,6 @@
 ## app_httpd.cpp
 ## camera_index.h
 ## camera_pins.h
-# Guiding stick_visually challenged people _IoT Network_Journal
+# Guiding stick_visually challenged people _Journal.pdf
+## Guiding stick_certificate.pdf
 
