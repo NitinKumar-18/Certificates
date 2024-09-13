@@ -1,5 +1,4 @@
-# EFY Magazine_Embedded Systems_projects.pdf
-## EFY Magazine: DIY: Project, DIY: Circuit
+# EFY Magazine_Embedded Systems_projects.pdf (DIY: Project, Circuit)
 # IoT based robotic arm_assisting older people_Journal.pdf
 ## IoT based robotic arm_certificate.png
 ## raspberry pi 4 pinout.png
