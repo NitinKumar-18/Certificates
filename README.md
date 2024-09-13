@@ -1,6 +1,6 @@
 # EFY Magazine_Embedded Systems_projects.pdf
 ## EFY Magazine: DIY: Project, DIY: Circuit
-# IoT based robotic arm_assisting older people _Journal.pdf
+# IoT based robotic arm_assisting older people_Journal.pdf
 ## IoT based robotic arm_certificate.png
 ## raspberry pi 4 pinout.png
 ## pinout diagram node mcu esp8266.jpg
@@ -9,6 +9,6 @@
 ## app_httpd.cpp
 ## camera_index.h
 ## camera_pins.h
-# Guiding stick_visually challenged people _Journal.pdf
+# Guiding stick_visually challenged people_Journal.pdf
 ## Guiding stick_certificate.pdf
 
